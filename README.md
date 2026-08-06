@@ -1,9 +1,12 @@
+# DATA-ANALYZER-TRANSFORMER
 
- # DATA-ANALYZER-TRANSFORMER
+---
 
 ## 📊 Data Analyzer and Transformer — Python Project
 
 A simple, menu-driven console application built in Python to input, analyze, filter, sort, and summarize numeric data, all through an easy-to-use terminal interface.
+
+---
 
 ## 🚀 Project Overview
 
@@ -20,12 +23,16 @@ The tool lets you:
 
 It's a great beginner-to-intermediate project demonstrating loops, built-in functions, recursion, lambda functions, and functions that return multiple values in Python.
 
+---
+
 ## 🗂️ Project Files
 
 | File Name | Description |
 |---|---|
 | 🐍 `data_analyzer.py` | Main Python script with all functionality |
 | 📘 `README.md` | Project documentation |
+
+---
 
 ## 🧩 Program Structure
 
@@ -40,6 +47,8 @@ The program runs on a `while True` main loop displaying a menu, and routes user 
 | 5 | Sort data (ascending / descending) |
 | 6 | Display dataset statistics (multiple return values) |
 | 7 | Exit the program |
+
+---
 
 ## 🔹 Key Features
 
@@ -69,6 +78,8 @@ Calls a function that calculates and returns the minimum, maximum, total, and av
 ### 7️⃣ Exit
 Gracefully ends the program with a thank-you message.
 
+---
+
 ## 📦 Data Fields Used
 
 | Field | Description |
@@ -76,6 +87,8 @@ Gracefully ends the program with a thank-you message.
 | `arr` | The stored 1D array of numbers entered by the user |
 | `threshold` | Value used to filter the array |
 | `sort_choice` | User's choice of ascending or descending order |
+
+---
 
 ## 🛠️ Tools & Concepts Used
 
@@ -90,6 +103,8 @@ Python (Core / Standard Library only):
 - ✅ `input()` for user interaction
 - ✅ Type casting (`int()`)
 
+---
+
 ## ▶️ How to Run
 
 1. Make sure Python 3 is installed on your system
@@ -101,6 +116,8 @@ python data_analyzer.py
 ```
 5. Follow the on-screen menu to input, summarize, filter, sort, or analyze your data
 
+---
+
 ## 📌 Sample Workflow
 
 - Choose **1** → Input your dataset
@@ -111,6 +128,8 @@ python data_analyzer.py
 - Choose **6** → View full dataset statistics
 - Choose **7** → Exit the program
 
+---
+
 ## 🌟 Future Enhancements
 
 - 💾 Save/load data to a file (CSV / JSON) for persistence
@@ -120,9 +139,13 @@ python data_analyzer.py
 - 📊 Export results to Excel/CSV report
 - 📉 Add data visualization (charts/graphs) using matplotlib
 
+---
+
 ## 👩‍💻 Author
 
 Your Name 📍 India
+
+---
 
 ## 🙌 Feedback & Contributions
 
