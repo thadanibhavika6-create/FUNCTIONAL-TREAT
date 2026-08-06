@@ -146,11 +146,12 @@ python data_analyzer.py
 ## video link
 [WATCH_VIDEO_HERE](https://drive.google.com/file/d/1O_Wd6bEZuwT2334J76wLjm2ccrJAd1Sf/view?usp=drive_link)
 ---
+---
 ## 👩‍💻 Author
 
 Bhavika Thadani
 📍 India
-
+---
 ---
 
 ## 🙌 Feedback & Contributions
