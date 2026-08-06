@@ -160,6 +160,8 @@ Suggestions, improvements, and pull requests are always welcome! Feel free to fo
 
 ---
 📊 *Turning Raw Numbers Into Insights, One Dataset at a Time*
+
+---
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![GitHub stars](https://img.shields.io/github/stars/thadanibhavika6-create/FUNCTIONAL-TREAT?style=social)
 ![License](https://img.shields.io/badge/License-MIT-green)
