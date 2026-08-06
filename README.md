@@ -107,7 +107,7 @@ Python (Core / Standard Library only):
 
 ## ▶️ How to Run
 
-1. Make sure Python 3 is installed on your system
+1. Make sure Python 3 is installed on your system ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 2. Clone or download this repository
 3. Open a terminal in the project folder
 4. Run the script:
@@ -161,7 +161,3 @@ Suggestions, improvements, and pull requests are always welcome! Feel free to fo
 ---
 📊 *Turning Raw Numbers Into Insights, One Dataset at a Time*
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![GitHub stars](https://img.shields.io/github/stars/thadanibhavika6-create/FUNCTIONAL-TREAT?style=social)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
-
