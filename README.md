@@ -143,7 +143,8 @@ python data_analyzer.py
 
 ## 👩‍💻 Author
 
-Your Name 📍 India
+Bhavika Thadani
+📍 India
 
 ---
 
