@@ -139,6 +139,10 @@ python data_analyzer.py
 - 📊 Export results to Excel/CSV report
 - 📉 Add data visualization (charts/graphs) using matplotlib
 
+## sample output
+<img width="1024" height="1108" alt="overview functional treat" src="https://github.com/user-attachments/assets/5ce9e59a-9252-4fc6-a1a4-03ceafacd30b" />
+
+
 ---
 
 ## 👩‍💻 Author
