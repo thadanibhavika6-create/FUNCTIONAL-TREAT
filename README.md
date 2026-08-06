@@ -107,7 +107,7 @@ Python (Core / Standard Library only):
 
 ## ▶️ How to Run
 
-1. Make sure Python 3 is installed on your system ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+1. Make sure Python 3 is installed on your system
 2. Clone or download this repository
 3. Open a terminal in the project folder
 4. Run the script:
