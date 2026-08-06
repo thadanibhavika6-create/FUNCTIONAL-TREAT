@@ -140,8 +140,7 @@ python data_analyzer.py
 - 📉 Add data visualization (charts/graphs) using matplotlib
 
 ## sample output
-<img width="1024" height="1108" alt="overview functional treat" src="https://github.com/user-attachments/assets/5ce9e59a-9252-4fc6-a1a4-03ceafacd30b" />
-
+<img width="1024" height="1536" alt="sample png" src="https://github.com/user-attachments/assets/6ff8025e-1695-41ae-a462-601036ca5d7d" />
 
 ---
 
