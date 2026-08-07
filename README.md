@@ -141,9 +141,11 @@ python data_analyzer.py
 - 🖥️ GUI version using Tkinter
 - 📊 Export results to Excel/CSV report
 - 📉 Add data visualization (charts/graphs) using matplotlib
-
+  
+---
 ## sample output
 <img width="900" height="1350" alt="sample output1" src="https://github.com/user-attachments/assets/92a1ce52-404a-4be9-b63e-a7ce30184f7e" />
+---
 
 ---
 ## video link
