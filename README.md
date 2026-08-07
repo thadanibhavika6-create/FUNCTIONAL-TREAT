@@ -1,4 +1,4 @@
-# DATA-ANALYZER-TRANSFORMER
+# FUNCTIONAL-TREAT
 ---
 ## 📊 Data Analyzer and Transformer — Python Project
 
