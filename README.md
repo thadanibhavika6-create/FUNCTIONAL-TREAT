@@ -6,7 +6,6 @@
 
 A simple, menu-driven console application built in Python to input, analyze, filter, sort, and summarize numeric data, all through an easy-to-use terminal interface.
 
----
 
 ## 🚀 Project Overview
 
@@ -143,7 +142,7 @@ python data_analyzer.py
 - 📉 Add data visualization (charts/graphs) using matplotlib
 
 ## sample output
-<img width="1024" height="1536" alt="sample png" src="https://github.com/user-attachments/assets/6ff8025e-1695-41ae-a462-601036ca5d7d" />
+![Uploading sample output.png…]()
 
 ---
 ## video link
