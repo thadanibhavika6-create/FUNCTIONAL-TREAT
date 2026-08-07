@@ -23,7 +23,8 @@ The tool lets you:
 It's a great beginner-to-intermediate project demonstrating loops, built-in functions, recursion, lambda functions, and functions that return multiple values in Python.
 
 ---
-<img width="1200" height="538" alt="data_analyzer_overview" src="https://github.com/user-attachments/assets/50944862-a85a-4fd5-9d49-8f53c455dcf8" />
+<img width="1024" height="1536" alt="sample output" src="https://github.com/user-attachments/assets/1895214f-eb39-46c6-8b29-528b04f3f09d" />
+
 ---
 ---
 
