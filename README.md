@@ -6,6 +6,8 @@
 
 A simple, menu-driven console application built in Python to input, analyze, filter, sort, and summarize numeric data, all through an easy-to-use terminal interface.
 ---
+
+---
 ## 🚀 Project Overview
 
 This project is a **Data Analyzer and Transformer** built using core Python (no external libraries required). It allows anyone to load a dataset and instantly explore it — summarize it, filter it, sort it, and calculate statistics — directly from the terminal with a clean menu system.
@@ -24,7 +26,6 @@ It's a great beginner-to-intermediate project demonstrating loops, built-in func
 ---
 <img width="1200" height="538" alt="data_analyzer_overview" src="https://github.com/user-attachments/assets/f43ff2b2-b5db-406e-b70d-56e5305d5cb9" />
 
----
 ---
 
 ## 🗂️ Project Files
