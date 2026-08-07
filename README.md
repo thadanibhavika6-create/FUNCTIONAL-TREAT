@@ -23,7 +23,7 @@ The tool lets you:
 It's a great beginner-to-intermediate project demonstrating loops, built-in functions, recursion, lambda functions, and functions that return multiple values in Python.
 
 ---
-<img width="1024" height="1536" alt="sample output" src="https://github.com/user-attachments/assets/1895214f-eb39-46c6-8b29-528b04f3f09d" />
+<img width="1200" height="538" alt="data_analyzer_overview" src="https://github.com/user-attachments/assets/f43ff2b2-b5db-406e-b70d-56e5305d5cb9" />
 
 ---
 ---
@@ -143,7 +143,8 @@ python data_analyzer.py
 - 📉 Add data visualization (charts/graphs) using matplotlib
 
 ## sample output
-![Uploading sample output.png…]()
+<img width="1024" height="1536" alt="sample output" src="https://github.com/user-attachments/assets/a2ea2471-897f-4876-bca7-103d1547ebd9" />
+
 
 ---
 ## video link
