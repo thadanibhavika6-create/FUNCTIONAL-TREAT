@@ -143,8 +143,7 @@ python data_analyzer.py
 - 📉 Add data visualization (charts/graphs) using matplotlib
 
 ## sample output
-<img width="1024" height="1536" alt="sample output" src="https://github.com/user-attachments/assets/a2ea2471-897f-4876-bca7-103d1547ebd9" />
-
+<img width="900" height="1350" alt="sample output1" src="https://github.com/user-attachments/assets/92a1ce52-404a-4be9-b63e-a7ce30184f7e" />
 
 ---
 ## video link
