@@ -5,7 +5,7 @@
 ## 📊 Data Analyzer and Transformer — Python Project
 
 A simple, menu-driven console application built in Python to input, analyze, filter, sort, and summarize numeric data, all through an easy-to-use terminal interface.
-
+---
 
 ## 🚀 Project Overview
 
